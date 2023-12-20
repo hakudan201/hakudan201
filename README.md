@@ -1,4 +1,7 @@
 ### Hi, I'm Haku Dan
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 🌱 I’m currently learning at Hanoi University of Science and Technology(HUST)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakudan201&layout=compact)
