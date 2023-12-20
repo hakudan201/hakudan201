@@ -1,5 +1,7 @@
 ### Hi, I'm Haku Dan
-🌱 I’m currently learning Hanoi University of Science and Technology(HUST)
+🌱 I’m currently learning at Hanoi University of Science and Technology(HUST)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakudan201&layout=compact)
+
 <!--
 **hakudan201/hakudan201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
