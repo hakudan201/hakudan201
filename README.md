@@ -1,4 +1,4 @@
-### Hi, I'm Haku Dan
+### Hi, I'm Haku Dan ![](https://gitwar.herokuapp.com/badge?username=hakudan201)
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47tyumu8x03n8v73lsv8f5mf97eob5v3h3xnuy8dr7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
