@@ -1,8 +1,8 @@
 ### Hi, I'm Haku Dan
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47tyumu8x03n8v73lsv8f5mf97eob5v3h3xnuy8dr7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
-<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+
 🌱 I’m currently learning at Hanoi University of Science and Technology(HUST)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakudan201&layout=compact)
