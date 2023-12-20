@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hakudan201.repoName)
 
 ---
 
