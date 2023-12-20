@@ -8,10 +8,6 @@
 
 </div>
 
-![](https://gitwar.herokuapp.com/badge?username=hakudan201)
-
-
-
 ---
 
 🌱 I’m currently learning at Hanoi University of Science and Technology(HUST)
