@@ -10,7 +10,7 @@
 
 ---
 
-🌱 I’m currently learning at Hanoi University of Science and Technology(HUST)
+🌱 I have graduated from Hanoi University of Science and Technology(HUST)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakudan201&layout=compact&hide=jupyter%20notebook)
 
